@@ -2,7 +2,7 @@
 
 <h2>Real Estate Website (College Project - Internet Applications Development Module)</h2>
 
-<p>The project consists of a design document describing the overall website structure, describing
+<p>The project consists of a design document describing the general website structure, describing
 each page in the website, and including a prototype for the proposed website.<br/>
 
 This project required the use of HTML, CSS and PHP to develop a database driven website that includes the following functionality:<br/>
@@ -13,4 +13,4 @@ This project required the use of HTML, CSS and PHP to develop a database driven 
 • functionality for administrators to view/edit/delete database entries such as
 properties/testimonials/vendors</p>
 
-Property Hunters was the first website I created and working on it was challenging. I could put into practice what I have learned during University and it was very rewarding seeing the result after so many hours of effort. 
+Property Hunters was the final project I created while studying for a Higher Diploma Degree in Computing. Creating this Real Estate website was challenging as I practiced all that I have learned during University. It was rewarding seeing the result after so many hours of effort. 
