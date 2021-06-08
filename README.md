@@ -3,7 +3,7 @@
 # Real Estate Website (College Project - Internet Applications Development Module)
 
 The project consists of a design document describing the overall website structure, describing
-each page in the website and including a prototype for the proposed web site.
+each page in the website and including a prototype for the proposed web site.<br/>
 
 This project required the use of HTML, CSS and PHP to develop a database driven website that includes the following functionality:
 • dynamically generated property / services information
