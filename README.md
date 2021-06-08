@@ -13,4 +13,4 @@ This project required the use of HTML, CSS and PHP to develop a database driven 
 • functionality for administrators to view/edit/delete database entries such as
 properties/testimonials/vendors</p>
 
-Property Hunters was the final project I created while studying for a Higher Diploma Degree in Computing. Creating this Real Estate website was challenging as I practiced all that I have learned during University. It was rewarding seeing the result after so many hours of effort. 
+Property Hunters was the final project I created while studying for a Higher Diploma Degree in Computing. It was challenging putting into practice skills I have learned during the course, but seeing the result after so many hours of effort was rewarding.
